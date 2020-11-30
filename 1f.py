@@ -3,8 +3,8 @@ Youtube Video Link :- https://youtu.be/CDrjzWfS9nU
 
 Write a recursive function to print the factorial for a given number.
 
-Save File as 1c.py
-Run :- python 1c.py
+Save File as 1f.py
+Run :- python 1f.py
 
 """
 def fact(n):
