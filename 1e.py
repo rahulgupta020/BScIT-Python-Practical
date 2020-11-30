@@ -1,6 +1,9 @@
 """
 Youtube Video Link :- https://youtu.be/_9KCrG9Sasg
 
+Write a function to check the input value is Armstrong and also write the
+function for Palindrome.
+
 Save File as 1e.py
 Run :- python 1e.py
 
