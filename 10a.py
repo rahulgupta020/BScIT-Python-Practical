@@ -4,8 +4,8 @@ Youtube Video Link :- https://youtu.be/PedX5TQZuPQ
 Design a simple database application that stores the records and retrieve the
 same
 
-Save File as 1c.py
-Run :- python 1c.py
+Save File as 10a.py
+Run :- python 10a.py
 
 """
 import mysql.connector
